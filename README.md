@@ -7,8 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=ayoubedf&label=Profile%20views&color=41b883&style=flat" alt="ayoubedf" />
 </p>
 
----
-
 ### 👨‍💻 About Me  
 - 💡 Passionate about building **user-friendly and scalable web applications**  
 - 🌱 Currently deepening my skills in **React, Tailwind, and Node.js**  
